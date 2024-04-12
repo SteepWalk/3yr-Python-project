@@ -15,3 +15,14 @@ Small guideline on how to use the program:
 1. Run the program.
 2. An out of a list of the above function will appear. Enter an integer between 0 and 10 to guide the program on which function to perform.
 3. After use enter 0 to exit the program.
+
+
+
+
+
+These is an assignment done by the following 5 students:
+ 1. Abdurahman Abdullahi (1401126)
+ 2. Obsa Fekadu (1402772)
+ 3. Kaleab Sintayehu (1402311)
+ 4. Ahmed Abdela (1401254)
+ 5. Nebil Jibril (1402727)
