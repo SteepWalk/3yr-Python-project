@@ -1,4 +1,8 @@
 # 3yr-Python-project
+
+HELLO!
+I'm Abdurahman Abdullahi. This is a brief description of the python program in this repository.
+
 This repositery contains a student registry python program that is capable of perfroming the following:
 1. Register a student
 2. Search a studet
